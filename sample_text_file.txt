@@ -1,2 +1,3 @@
 This is a sample text file
-Created for learning Git.[A[D[C[C.[B
+Created for learning Git.
+Updating the file.
